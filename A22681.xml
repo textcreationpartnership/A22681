@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Copie van sekere antwoordt aende staten opt tversoeck van meerder secours, gegeuen wt Groenwits, den vijfdin Februarij, M.D. lxxxviij.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22681</idno>
+            <idno type="STC">STC 9194.8</idno>
+            <idno type="STC">ESTC S810</idno>
+            <idno type="EEBO-CITATION">22738278</idno>
+            <idno type="OCLC">ocm 22738278</idno>
+            <idno type="VID">25691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1775:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Copie van sekere antwoordt aende staten opt tversoeck van meerder secours, gegeuen wt Groenwits, den vijfdin Februarij, M.D. lxxxviij.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Barcker,</publisher>
+                  <pubPlace>Ghedruckt tot Londen :</pubPlace>
+                  <date>1588.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: Sekere antwoorde aende staten, opt versoeck van meerder secours.--P. [2].</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="dut">dut</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Spain --  History --  Philip II, 1556-1598.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="dut">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25691:1"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:25691:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>
+               <hi>COPIE</hi> Van ſekere antwoordt aen<g ref="char:EOLhyphen"/>de Staten / opt tverſoeck van meerder ſe<g ref="char:EOLhyphen"/>cours / gegeuen wt Groenwits / den vijfden Februarij / M.D.lxxxviij.</p>
+            <p>Ghedrucht Tot Londen by Thomas Barcher. <hi>1588.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:25691:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>Sekere antwoorde aende Staten, opt verſoeck van meerder Secours.</head>
+            <p>MYn Heeren ick en vinde my thans noch niet bedrogen / maer t'ghene daer ick my voren gevreeſt hebbe heb ic nv ſien ouercomen / ons gemeen ſpreec-woort / d'wele wy in Enge<g ref="char:EOLhyphen"/>lant hebben / is wter maten goet / te weten: To wanneermen vreeſt dz jet quaets mocht ouercome<g ref="char:cmbAbbrStroke">̄</g> / hoet ſelue meer openbaert / hoet beter is.</p>
+            <p>Tis nv een vierendeel jaers dat ick v verwacht hebbe / en<g ref="char:cmbAbbrStroke">̄</g> hertelye<g ref="char:EOLhyphen"/>lien een ſo grooten weldaet die ick v gedaen hebbe / hebt ghykebe<g ref="char:cmbAbbrStroke">̄</g> aen elck een met ſo grooten ondancbaerheyt laten kennen / waer ouer ick my vinde qualic getracteert van v lieden. Tis wel vremt dat ghylie<g ref="char:EOLhyphen"/>den zijt ſo qualye bedackt v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my te comen verſoeke<g ref="char:cmbAbbrStroke">̄</g> om meer ſecour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> en<g ref="char:cmbAbbrStroke">̄</g> hulpe ſonder dat ghylieden aen my reden geeft van t'gent ghy my voorleden gedaen hebt / d'welck wel ſo vremt is geweeſt / dat zwere ick by den leuenden Godt / dat ic niet en meynde datter vole ofte Staten meer ondancbaer en<g ref="char:cmbAbbrStroke">̄</g> qualic bedacht geuonden moge<g ref="char:cmbAbbrStroke">̄</g> worden / als gy<g ref="char:EOLhyphen"/>lieden zyt. Ick hebbe v deſe jaren geſonden xv. xvj. xvij. xviij. duſene Manne<g ref="char:cmbAbbrStroke">̄</g> die ghylieden ſonder betalinge gelaten hebt / d'een laten ſter<g ref="char:EOLhyphen"/>uen van honger / dander deſperaet zijnde is genootſae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t geweeſt onee te loopen na den vyant: Is dit niet om raſende te worde<g ref="char:cmbAbbrStroke">̄</g> voorde En<g ref="char:EOLhyphen"/>gelſche natie? en<g ref="char:cmbAbbrStroke">̄</g> voor v lieden een groote ſchande / dat de Engelſche ſeggen moete<g ref="char:cmbAbbrStroke">̄</g> / datſe meerder beleefchz geuonden hebben byde Spae<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>giaerden als byde Bourgonnoyſen / en<g ref="char:cmbAbbrStroke">̄</g> zeker ick ſegge v vrymoedelic dat ick niet gedoogen en can alſulcke onvrtendelicheden en<g ref="char:cmbAbbrStroke">̄</g> ſalveel lie uer doen dat my belieft / als i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoude wille<g ref="char:cmbAbbrStroke">̄</g> / ſo zoude ick wel wat goets connen doen ſouderv. Nict jegenſtaende dat ghy ſoudt moge<g ref="char:cmbAbbrStroke">̄</g> ſeggen dattet de Conmginne van Engelant moet doen / en<g ref="char:cmbAbbrStroke">̄</g> t'gene zy doet is voor haer verſelierhz / maer nee<g ref="char:cmbAbbrStroke">̄</g> ghy abuſeert v / ten zyn nz dan quade perſuaſien / en<g ref="char:cmbAbbrStroke">̄</g> gelooft dat vrijlic / dat ic wel den ra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſal neme<g ref="char:cmbAbbrStroke">̄</g> ſonder v daer toe te roepen / beter als i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wel doen ſoude met v. Nochtans en hake ic met na ſo grooten quaet / maer van gelycken en wil ic nz dat<g ref="char:EOLhyphen"/>men my voorhout ſodanighen propoſten.</p>
+            <p>Tis wel waer dat ic niet en ſoude begeeren den Spaengiaert ſo na by my / als zy my vyant ſouden zijn: Maer waer omme en ſonde ic nz connenleuen in ruſten als wy vriende<g ref="char:cmbAbbrStroke">̄</g> ſijn want int beginſel van my<g ref="char:EOLhyphen"/>nen Rijeke hebben wy altijts eerlyck (als goede vrienden) metten an<g ref="char:EOLhyphen"/>deren gheleeft / den Coninek van Spa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngien en<g ref="char:cmbAbbrStroke">̄</g> ick / dat meer is / hy heeft my ten houwelyck doen verſoecken / en<g ref="char:cmbAbbrStroke">̄</g> noch laughe daer naer
+<pb facs="tcp:25691:2"/>
+               <!-- PDF PAGE 52 -->hebben w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gheweeſt in peys ende brede / ſonder datmen jet heeft ghe<g ref="char:EOLhyphen"/>attente<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt teghens mijnen perſoon / ende als ons ſoude ghelieuen / canment alſnoch ſo wel doen.</p>
+            <p>Nv van dander zyde: Ick hebbe gheſonden als Lieutenant na<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mijner macht ven Graue van Leyceſter / ende mijn meyninghe was / bat hy hebben ſoude het bewint <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ande middelen ende Contributien / maer ter contrarien heeft hy daer af met connen ghenieten / ende ghy<g ref="char:EOLunhyphen"/>lieden hebt de ſelue ghehandelt / oock daer mede ghedaen als v goe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ghedocht heeft onder v heden. Ghylieden hebt hem ghegheuen den tijtel van t'Gouvernement / om onder pretext van dien al v quaet op hem teſchudden / welcken tijtel hy outfanghen heeft ſonder mijnen wille ofte wete / waer door hy ſtelde in haſarde te verlieſen zy lijf ende goet / zyn gonſte ende fame van zyn Princeſſe / t'welck hem meeſt jm<g ref="char:EOLhyphen"/>porteert / maer t'ſelue heeft hy gedaen om v lieden ſtaet die heel wane<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elbaer ſtont door te ſtercken. Wat authoriteyt (bidde ick v doch) hebt ghy hem geghenen? het ſchijnſel van dien / ofte de welemen ſon<g ref="char:EOLhyphen"/>de moghen jmagmeren: Tis ſcker met de lieden ghegeckt / hy is noch tans een Edelman ende Heere van eere ende raedt die ghylieden nie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> zo en behoort ghetracteert te hebben. Hadde ick ſo wel geaccordeert den tijtel die ghy my hebt willen gheuen / by den leuenden Godt / ick en ſoude niet ghedacht hebben / datmen my alſo ſoude ghetracteert hebben noch zijt gylieden ſo qualieken bedacht dat ſo wanneer daer jemant is die v teleken onderricht / dat gh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> den ſeluen alle quaet toe wenſcht ende teghens hem roept ende tiert / ende daerentuſſchen den eenen om wech te draghen ende te ſalueren zyn ghelt ende goet / den anderen om geſehencke<g ref="char:cmbAbbrStroke">̄</g> loopt fauoriſeren den vyant de Spaengiaert zeer qualicken haer offitien bedienende. Ghelooſt dat ſelierlych / dat Godt ſodanige ſtraffen ſal / die my wenſchen ſo grooten quaet voor ſo grooten weldaet: Ende ghelooft dat vrijelyck / dat den Connick van Spaengien hem neminermeer op ſoodanighe ſal betrouwen / die de partijen die zy berwillicht hebben / verlaten hebben / daer zy ſoo veel denchden af ontfanghen hebben. Hy en ſal oock gheen gheloof ghe<g ref="char:EOLhyphen"/>uen t'ghene ſy hem willen geloouen: Noch dat meer is / om te beder<g ref="char:EOLhyphen"/>ken haer vuylicheden / gaen zy ſtroyen dat de Conmginne van En<g ref="char:EOLhyphen"/>ghelant den pays wilt maken ſonder haer weten. Neen / ick ware lie<g ref="char:EOLhyphen"/>uer doot / dan dat ick een oorſake ſoude ſijn / om te ſeggeu dat ick mijn belofte niet gehouden en hadde. Ende alſo de Princen d'een d'ander wel hooren / dat mach gheſchieden ſonder jemants letſel / want ſy han delen met een man<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere van doen / ende verſtant / ende ſinnen / d'welck
+<pb facs="tcp:25691:3"/>
+               <!-- PDF PAGE 53 -->de particuliere perſoonen uiet en ſouden connen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oen.</p>
+            <p>Ghylieden zyt wel Staten / maer particuliere perſoone<g ref="char:cmbAbbrStroke">̄</g> int regard van Princen / ſekerlyck ick en ſoude met begeeré te doen ſonder v liede<g ref="char:cmbAbbrStroke">̄</g> wete / ende en ſoude ooc niet laten veranderen die authoriteyt die ghy<g ref="char:EOLhyphen"/>lieden hebt onder v / noch v lieder Preuilegie ende Coſtuyme. Van ge<g ref="char:EOLunhyphen"/>lycken / ick en ſoude mede niet willen ghedooghen dat ghy in v con<g ref="char:EOLhyphen"/>ſcientie wert gheturbeert / wat wilt ghy dan meer van my hebben. Ghy hebt onder v lieden gedaen een Publicatie / datmen niet en moet ſpreken van pays / met recht tis goet maer laet Princen daer mede ge<g ref="char:EOLhyphen"/>worden / ſo zijt tot verſekertheyt van haren ſtate oorboorlixt vinden. Welverſtaende datmen v daer mede gheen letſel en doet / maer wey<g ref="char:EOLhyphen"/>nich woorden diemen v ſeyt / daer behoort ghy mede te vreden te weſe<g ref="char:cmbAbbrStroke">̄</g> ende daer op te betrouwen. Doe ick jet tot uwen voordeele / ick wil daeromme te cerlycker ghetracteert weſen.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oortaen ſal ic lieuer deputeren Perſonagien van onſen Raet om met v lieden te handelen / nochtans voor eerſt wil ick ſeluer hooren eſt ſien wat my voorleden geſchiet is / ende daer af eerſt voldoeninge heb<g ref="char:EOLhyphen"/>be / voor ende eer ick d'een of d'ander wil antwoorden op t'ghen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ghylieden my gheremonſtreert hebt / om te hebben meerde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſecours oft hulpe / ende ſal v lieden voor deſen tijt hier mede laten / ſonder meer te verſtooren,</p>
+            <closer>God Saue the Queene.</closer>
+            <pb facs="tcp:25691:3"/>
+            <!-- PDF PAGE 53 -->
+         </div>
+      </body>
+   </text>
+</TEI>
